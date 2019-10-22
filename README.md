@@ -2,8 +2,10 @@
 > Momentum App 클론코딩.
 
 Momentum App 클론코딩.
-노마드 코더 바닐라 JS로 크롬 앱 만들기 강의로 진행
-JS 학습을 목표로 진행
+
+노마드 코더 바닐라 JS로 크롬 앱 만들기 강의로 진행. 강의 링크[바로가기](https://academy.nomadcoders.co/p/javascript-basics-for-absolute-beginners-kr)
+
+JS 기초 학습을 목표로 진행.
 
 ## 기능
 * 할 일 목록(To Do List)
@@ -27,5 +29,3 @@ JS 학습을 목표로 진행
 ## 정보
 
 나호석 – hsna7024@gmail.com
-
-[노마드 코더 강의 링크](https://academy.nomadcoders.co/p/javascript-basics-for-absolute-beginners-kr)
