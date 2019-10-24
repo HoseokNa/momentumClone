@@ -2,7 +2,7 @@ const form = document.querySelector(".js-form"),
 input = form.querySelector("input"),
 greeting = document.querySelector(".js-greetings");
 
-const CURRENT_US = "currentUser",
+const USER_LS = "currentUser",
 SHOWING_CN = "showing";
 
 function saveName(text){
@@ -28,7 +28,7 @@ function paintGreeting(text){
 }
 
 function loadName(){
-  const currentUser = localStorage.getItem(CURRENT_US);
+  const currentUser = localStorage.getItem(USER_LS);
   if(currentUser === null)
   {
     askForName();
