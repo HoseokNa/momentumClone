@@ -7,9 +7,9 @@ Momentum App 클론코딩.
 
 JS 기초 학습을 목표로 진행.
 
-![캡처사진1](./introduction1.jpg)
+![캡처사진1](./introduction1.JPG)
 
-![캡처사진2](./introduction2.jpg)
+![캡처사진2](./introduction2.JPG)
 
 ## 기능
 * 할 일 목록(To Do List)
